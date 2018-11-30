@@ -10,6 +10,7 @@ The project Report contains the overview of the project including the project ba
 
 
 This was one of my early projects so with time constraints and lack of knowledge about sufficient planning,analysis and design.
-My parter and I jumped into coding from scratch and fixing problems on the go. The end results was pretty impressive for ourselves but the object-oriented class-method and source codes was badly structered. It was a major flaw of our application and we did become aware of the problem in the very late state so we didn't have time to fix the problem. 
+My partner and I just started the project by jumping into coding immediately and try fixing problems on the go.
+The end output was pretty impressive for ourselves but the object-oriented class-method and source codes was badly structered. It was a major flaw of our application. We became aware of the problem in the later state of working when the codes and work for particular classes becomes bigger and bigger and we wanted to fix the problem but we couldn't figure out how to implement a solution because the problem is deeply rooted since start and with the time restaint, we decided to leave this part and continue implementing.
 
-In the end,I learned a lot of things including how to make simple java program including basic gui, handling input from user,basic application control flows and most importantly planing/analysis of the project is not something to be looked over.
+In the end, I learned a lot of things including how to make simple java program including basic gui, handling input from user,basic application control flows and most importantly planing/analysis/design of the project is not something to be looked over.

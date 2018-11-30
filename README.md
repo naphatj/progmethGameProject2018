@@ -4,7 +4,7 @@ The goal of this project is to create a java application using java and javafx.
 
 
 ### Please read the projectReport.pdf 
-The project Report contains the overview of the project including the project background, program transitioning and game flows, example screenshots from the program , and more details.
+The project Report contains the overview of the project including the project background, program transitioning and game flows, example screenshots from the program and more details.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
